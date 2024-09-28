@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c50331d.css",
-    "main.js": "/static/js/main.ca37c26b.js",
-    "static/js/453.a5a2c9ee.chunk.js": "/static/js/453.a5a2c9ee.chunk.js",
-    "index.html": "/index.html",
-    "main.4c50331d.css.map": "/static/css/main.4c50331d.css.map",
-    "main.ca37c26b.js.map": "/static/js/main.ca37c26b.js.map",
-    "453.a5a2c9ee.chunk.js.map": "/static/js/453.a5a2c9ee.chunk.js.map"
+    "main.css": "/phoenixgenesis-website/static/css/main.4c50331d.css",
+    "main.js": "/phoenixgenesis-website/static/js/main.05157e08.js",
+    "static/js/453.a5a2c9ee.chunk.js": "/phoenixgenesis-website/static/js/453.a5a2c9ee.chunk.js",
+    "index.html": "/phoenixgenesis-website/index.html",
+    "main.4c50331d.css.map": "/phoenixgenesis-website/static/css/main.4c50331d.css.map",
+    "main.05157e08.js.map": "/phoenixgenesis-website/static/js/main.05157e08.js.map",
+    "453.a5a2c9ee.chunk.js.map": "/phoenixgenesis-website/static/js/453.a5a2c9ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c50331d.css",
-    "static/js/main.ca37c26b.js"
+    "static/js/main.05157e08.js"
   ]
 }
